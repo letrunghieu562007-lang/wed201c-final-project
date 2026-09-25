@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-    <rect width="300" height="200" fill="lightgray"/>
-    <text x="55" y="105"
-          font-family="Arial"
-          font-size="22">
-        Operating Systems
-    </text>
-</svg>

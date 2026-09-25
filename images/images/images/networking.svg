@@ -1,8 +1,0 @@
- <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-        <rect width="300" height="200" fill="lightgreen"/>
-        <text x="45" y="105"
-            font-family="Arial"
-            font-size="22">
-            Computer Networking
-        </text>
-    </svg>
